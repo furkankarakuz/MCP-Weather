@@ -2,6 +2,8 @@
 
 This project provides a server built with the Model Completion Protocol (MCP), designed to deliver up-to-date weather information in response to real-time queries. By integrating the OpenWeather API, the server allows AI models to fetch accurate weather data based on location input and return structured responses. This tool enables enhanced interaction between language models and live environmental data sources.
 
+![image](https://github.com/user-attachments/assets/174a0ea6-54e1-4005-ab6e-6ea87325f91e)
+
 ---
 
 ## 🔍 What is MCP?
