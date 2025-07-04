@@ -82,7 +82,7 @@ Note : After this command, the MCP Server installation is complete and the claud
 
 ---
 
-# 💻 Run with Claude Desktop
+## 💻 Run with Claude Desktop
 1. The Claud Desktop application opens. The “Weather” option should appear in the File > Settings > Developer tab and in the settings on the chat screen.
 
 ![1](https://github.com/user-attachments/assets/17eeeef2-11d9-43be-9243-e5847aa576d1)
